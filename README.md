@@ -1,12 +1,25 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+1. Clone This Repo In your Local Device. Run the Following Command to clone this repo in your local device.
 
-First, run the development server:
+```bash
+git clone https://github.com/devil-shiva/Next-Component-Context.git
+```
+
+2. Then install the Required Modules by running the Following Command
+
+```bash
+npm install
+```
+
+3. The run the development Server by running the following command
 
 ```bash
 npm run dev
+
 # or
+
 yarn dev
 ```
 
